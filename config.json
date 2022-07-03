@@ -1,0 +1,34 @@
+{
+    "seed": 2509,
+    "num_workers": 1,
+
+    "num_folds": 12,
+    "model_path": "",
+
+    "starting_loss_sig": 2.5,
+    "loss_sig_interval": 5,
+
+    "result_path": "results",
+    "exp_name": "test",
+    "create_results_dir": 1,
+    "save_results": 1,
+
+    "learning_rate": 5e-3,
+    "num_epochs": 150,
+    "device": "cuda",
+    "dtype": "torch.float32",
+    "val_interval": 1,
+    "train_batch_size": 32,
+    "train_num_batches": 32,
+    "losses": ["l1_comp", "l1_reg"],
+    "loss_weights": [1, 0.01],
+
+    "val_batch_size": 2,
+    "val_num_batches": 1,
+
+    "kernel1": 11,
+    "kernel2": 5,
+
+    "train_dataset": "",
+    "val_dataset": "",
+    "test_path": []
