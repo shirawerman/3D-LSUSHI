@@ -8,10 +8,10 @@ This network is trained on simulated pairs of low resolution 3D ultrasound seque
 ## Usage
 ### Installation
 Activate conda environment with lsushi.yml:
-'''bash
+```bash
 conda env create -f lsushi.yml
 conda activate lsushi
-'''
+```
 
 ### General Usage
 Input your parameters in a json file. Example configuration can be seen in config.json. 
