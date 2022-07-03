@@ -20,5 +20,5 @@ To test on validation or in-vivo data:
 python DUULM_run.py <path_to_config_file> test
 ```
 
-
+## Example
 ![Sample Tracking](simulations3d.png)
