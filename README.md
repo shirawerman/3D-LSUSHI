@@ -21,4 +21,4 @@ python DUULM_run.py <path_to_config_file> test
 ```
 
 ## Example
-![Sample Tracking](simulations3d.png)
+![Sample Tracking](assets/simulations3d.png)
