@@ -19,3 +19,6 @@ To test on validation or in-vivo data:
 ```bash
 python DUULM_run.py <path_to_config_file> test
 ```
+
+
+![Sample Tracking](simulations3d.png)
