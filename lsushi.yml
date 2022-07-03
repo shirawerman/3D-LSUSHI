@@ -1,4 +1,4 @@
-name: mbzssr
+name: lsushi
 channels:
   - pytorch
   - anaconda
